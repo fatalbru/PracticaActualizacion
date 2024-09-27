@@ -2,19 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/miportafolio2/contactos/contacto2/</loc>
-    <lastmod>2024-09-08T11:44:54-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/miportafolio2/contactos/</loc>
-    <lastmod>2024-09-08T11:44:54-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/miportafolio2/</loc>
-    <lastmod>2024-09-08T11:44:54-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/miportafolio2/acercade/acercadelmundo/</loc>
     <lastmod>2024-09-08T11:42:41-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/miportafolio2/acercade/</loc>
+    <lastmod>2024-09-08T11:42:41-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/miportafolio2/</loc>
     <lastmod>2024-09-08T11:42:41-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/miportafolio2/acercade/acercadelcreador/</loc>
@@ -28,6 +22,9 @@
   </url><url>
     <loc>http://localhost:1313/miportafolio2/post/postuno/</loc>
     <lastmod>2024-09-07T14:56:27-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/miportafolio2/contactos/</loc>
+    <lastmod>2024-09-07T14:44:12-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/miportafolio2/contactos/redessociales/</loc>
     <lastmod>2024-09-07T14:44:12-04:00</lastmod>

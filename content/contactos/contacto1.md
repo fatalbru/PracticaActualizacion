@@ -1,9 +1,12 @@
 +++
-title = 'Contacto1'
-date = 2024-09-07T01:21:58-04:00
+title = 'Contactos'
+date = 2024-09-27T01:21:58-04:00
 +++
-este es mi primer contactohu
-    Numero de Celular: 70432525 <br>
+Estas son mis primeras lineas de contacto personal:
+        
+        Numero de Celular: 69583273
+        Correo personal: henrymanuelquispemamani@gmail.com
         Ciudad: Oruro - Bolivia
-        Estudios realizados: Facultad NAcional de Ingenieria
-        Carrera: Ingenieria de Sistemas
+        Estudiante en: Facultad Nacional de Ingenieria
+        Carrera: Ingenieria Informatica
+
