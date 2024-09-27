@@ -1,7 +1,7 @@
 
 baseURL = 'https://ledezma07.github.io/miportafolio2/'
 languageCode = 'en-us'
-title = 'Mi Portafolio Personal Ledezma'
+title = 'Mi Web Henry'
 
 [[module.imports]]
   path = "github.com/halogenica/beautifulhugo"
@@ -14,12 +14,6 @@ title = 'Mi Portafolio Personal Ledezma'
   url = "/contactos/"
   weight=0
 [[menu.main]]
-  identifier="contacto"
-  name="Contacto"
-  title="redes"
-  url = "/contactos/"
-  weight=0
-[[menu.main]]
   identifier="post"
   name="post"
   title="COMENTARIOS"
@@ -27,7 +21,7 @@ title = 'Mi Portafolio Personal Ledezma'
   weight=0
 [[menu.main]]
   identifier="acercade"
-  name="acercade"
-  title="ACERCA DE"
+  name="acerca de"
+  title="ACERCADE"
   url = "/acercade/"
   weight=0
