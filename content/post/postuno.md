@@ -31,5 +31,5 @@ Estudiante de la facultad nacional de ingenieria de la carrera de INGENIERIA INF
 {{< /details >}}
 
 {{< details "LA INGENIERIA DE SOFTWARE (Dale click para expandir)" >}}
-Descriasdlfkajsdhll asfhasdf jasldjf asldj fasljkd fhasljkd fasjkd fhasjkd fasdj hfalskdj fhaslkjd fasjkd hfas asfhash falskjfhas dfhasdhf (hidden until clicked).
+Carrera de Ingenieria en la Facultad Nacional de Ingenieria(hidden until clicked).
 {{< /details >}}
