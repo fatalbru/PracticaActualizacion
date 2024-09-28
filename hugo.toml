@@ -1,7 +1,7 @@
 
 baseURL = 'https://ledezma07.github.io/miportafolio2/'
 languageCode = 'en-us'
-title = 'Mi Web Henry'
+title = 'Mi Pagina Web Henry'
 
 [[module.imports]]
   path = "github.com/halogenica/beautifulhugo"
